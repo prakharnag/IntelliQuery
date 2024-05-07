@@ -1,0 +1,65 @@
+Business IDs:
+
+
+511flt1E6niG0sK5FkX_fQ
+
+YrC3D7DVIQvGVFWBUQw4-w
+
+KgeOkqcLHsMaZwoIIiW7bQ	
+
+8DFC6CcYWnqbqWiZMaT1vA
+
+5A6uOSS_H_G-NkshKfVneQ
+
+*********************************************
+
+Output from business ID -> YrC3D7DVIQvGVFWBUQw4-w
+*****************************************************
+
+{
+  "reviews": [
+    {
+      "id": "qfd4g0HBfMMg5kmlOLT_ow",
+      "url": "https://www.yelp.com/biz/chef-ciccio-chicago-2?adjust_creative=7tVVx3Mq2f8NiAHdvBSKoQ&hrid=qfd4g0HBfMMg5kmlOLT_ow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=7tVVx3Mq2f8NiAHdvBSKoQ",
+      "text": "had the pleasure of trying the italian beef here and WOW! super flavourful and fresh. i wish i would have ordered more because it truly was THAT good. i was...",
+      "rating": 5,
+      "time_created": "2024-03-15 13:46:44",
+      "user": {
+        "id": "T6QC0q8jKWx4lWfbd1j2NQ",
+        "profile_url": "https://www.yelp.com/user_details?userid=T6QC0q8jKWx4lWfbd1j2NQ",
+        "image_url": "https://s3-media4.fl.yelpcdn.com/photo/J-QcMZ7skHaFfT9gqRGgfg/o.jpg",
+        "name": "Ashlee J."
+      }
+    },
+    {
+      "id": "_f7ZR_P9xepIE5Adgej-MQ",
+      "url": "https://www.yelp.com/biz/chef-ciccio-chicago-2?adjust_creative=7tVVx3Mq2f8NiAHdvBSKoQ&hrid=_f7ZR_P9xepIE5Adgej-MQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=7tVVx3Mq2f8NiAHdvBSKoQ",
+      "text": "During our visit to Navy Pier, we were recommended to try Chicago's best Italian Beef Sandwich at Ciccio's. Although initially, we had some trouble finding...",
+      "rating": 5,
+      "time_created": "2024-02-26 05:23:03",
+      "user": {
+        "id": "aRXKxdvo8gT9H55XmxJJzQ",
+        "profile_url": "https://www.yelp.com/user_details?userid=aRXKxdvo8gT9H55XmxJJzQ",
+        "image_url": "https://s3-media2.fl.yelpcdn.com/photo/oc_U512SsPdrahxAw_u4nQ/o.jpg",
+        "name": "Jeff C."
+      }
+    },
+    {
+      "id": "oUXxsgZwTc1_z1HzjAgHyQ",
+      "url": "https://www.yelp.com/biz/chef-ciccio-chicago-2?adjust_creative=7tVVx3Mq2f8NiAHdvBSKoQ&hrid=oUXxsgZwTc1_z1HzjAgHyQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=7tVVx3Mq2f8NiAHdvBSKoQ",
+      "text": "Highly recommend this delicious Italian Beef Sandwich located all the way down the hallway corridor at Navy Pier!\n\nWe ordered the classic Italian beef...",
+      "rating": 5,
+      "time_created": "2024-01-13 15:54:12",
+      "user": {
+        "id": "WLTyiUCXEEXsqP6tfWXsFA",
+        "profile_url": "https://www.yelp.com/user_details?userid=WLTyiUCXEEXsqP6tfWXsFA",
+        "image_url": "https://s3-media1.fl.yelpcdn.com/photo/xCyc8iSIuY8N2DWG7O82JQ/o.jpg",
+        "name": "Victoria W."
+      }
+    }
+  ],
+  "total": 30,
+  "possible_languages": [
+    "en"
+  ]
+}
